@@ -90,9 +90,8 @@ Explore the world with ease, create unforgettable memories, and make your travel
 - Security of personal details
 
 ## Authors
-- [@noy-dayan](https://github.com/noy-dayan) (Project Manager)
-- [@Noya-G](https://github.com/Noya-G)
-- [@itamarKraitman](https://github.com/itamarKraitman)
-- [@neryaRez](https://github.com/neryaRez)
-- [@AvivShevach](https://github.com/AvivShevach)
+- [Bokka Pavan Kumar]([https://github.com/pavan766]) (Project Manager)
+- [purushotham]
+- [sivasairoyal]
+- [surendraguptha]
 
