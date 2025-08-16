@@ -30,8 +30,6 @@ Explore the world with ease, create unforgettable memories, and make your travel
 
 <div align='center'; style="display: flex; justify-content: space-between;">
     <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/dc9a7f8c-3c48-4d92-ad7b-03b718711ba9" alt="App Screenshot 1" width="200">
-    <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/587b0f99-cd42-4785-9c4a-2b7d1e418e8d" alt="App Screenshot 1" width="200">
-    <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/f7ee218f-0462-4c96-8096-5bb3c7808cff" alt="App Screenshot 3" width="200">
 </div>
 
 ### Global Features
@@ -44,7 +42,6 @@ Explore the world with ease, create unforgettable memories, and make your travel
 
 <div align='center'; style="display: flex; justify-content: space-between;">
     <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/35540408-3ddd-41a7-93ee-95320e6f73c5" alt="App Screenshot 4" width="200">
-    <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/987e620c-fd27-4414-ba39-3831473d494f" alt="App Screenshot 5" width="200">
     <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/03b4a43e-798b-49b9-8db7-df872c87698d" alt="App Screenshot 6" width="200">
     <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/0da40fc0-7328-49dd-9a94-527c41bfdc6a" alt="App Screenshot 7" width="200">
 </div>
@@ -54,7 +51,6 @@ Explore the world with ease, create unforgettable memories, and make your travel
 - Ability to add new tours into a calander according to the tour packages and open them for booking
 
 <div align='center'; style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/767b2cd6-bae2-49dc-bd68-d1e566333a98" alt="App Screenshot 7" width="200">
     <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/1603b1b7-1ecb-4c14-ab12-f32562a45328" alt="App Screenshot 8" width="200">
     <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/9cd699e3-38c3-4b85-a6aa-9017298d7cd0" alt="App Screenshot 9" width="200">
     <img src="https://github.com/noy-dayan/TourBuddy/assets/106970874/e01eab94-478c-477c-8ae1-7b436334b481" alt="App Screenshot 10" width="200">
